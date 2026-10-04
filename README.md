@@ -1,4 +1,5 @@
 # Superstore Sales and Profit Analysis using Power BI
+![](https://github.com/automaticgarbagesortingsystem-netizen/Superstore-Sales-and-Profit-Analysis-/blob/main/supermarket-cart.jpg)
 
 # Introduction
 This project explores Superstore sales and profit to help management understand performance across regions, categories and customer segments
@@ -31,6 +32,7 @@ The data was loaded into Power query where duplicate records were removed, incon
 
 ## Sales and Profit by Region
 The West region generated the highest revenue of 765K, which is 50% of the total sales made. Surprising, it also generated the biggest amount of profit. The East and North region altogether contributed the least to the sales of the company.
+![](https://github.com/automaticgarbagesortingsystem-netizen/Superstore-Sales-and-Profit-Analysis-/blob/main/Revenue-by-Region.PNG)
 
 ## Monthly breakdown of sales
 
