@@ -42,6 +42,9 @@ The West region generated the highest revenue of 765K, which is 50% of the total
 2.	Reduce discount given on certain products. To maximize profit, it is recommended that a discount more than 20% should not be given. 
 3.	Reward the profitable customers.
 
+Interact with the Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiMmMzYTQyMDgtZWJlYS00NGZiLTg2MTAtZWYxMjdjZjQxZDAyIiwidCI6IjExODg4MzNmLTRiMTktNDYzYS04OThmLWM2ODMxNmRjOTQ1NiJ9)
+
+![](https://github.com/automaticgarbagesortingsystem-netizen/Superstore-Sales-and-Profit-Analysis-/blob/main/Superstore-Sales-Dashboard.jpg)
 
 
 
